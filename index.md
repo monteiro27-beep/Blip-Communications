@@ -22,7 +22,7 @@ September at Blip was shaped by three major threads: people & culture milestones
 **Author:** Inês Almeida (ines.almeida@flutter.com) | **Category:** Recruitment
 - Recap of a full day of assessments, interviews and candidate experience at the Porto office.
 - Thanks Talent Acquisition team and all participating Blippers.
-- **Reactions (10 types, 194 total):** 🎉 beta (67), ✌️ v (31), 💙 blue_heart (23), 💜 love-blip (19), 💜 purple_heart (11), 🙌 love-hands-sign (10), ✌️🏽 v::skin-tone-2 (10), 🎊 celebrate (10), 🐵 bongoblob (8), ✌️🏼 v::skin-tone-3 (5)
+- **Reactions (194 total):**
 
 ### 🥈 2. Our AI journey continues — Score: 135
 **Author:** Ana Carvalho (Ana.Carvalho@Flutter.com) | **Category:** Tech Content
