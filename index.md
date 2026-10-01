@@ -8,7 +8,6 @@ September at Blip was shaped by three major threads: people & culture milestones
 
 ## Key Metrics
 | Metric | Value |
-|---|---|
 | Total Messages | 15 |
 | Unique Authors | 12 |
 | Total Interactions (reactions + replies) | 953 |
@@ -102,7 +101,6 @@ September at Blip was shaped by three major threads: people & culture milestones
 
 ## 🗂️ Engagement by Category
 | Category | Total Score |
-|---|---|
 | Business Update | 237 |
 | Recruitment | 194 |
 | Tech Content | 135 |
